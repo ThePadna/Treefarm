@@ -1,0 +1,5 @@
+name: Treefarm
+version: 1.0
+main: main.Treefarm
+commands:
+  treefarm:
